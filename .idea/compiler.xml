@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Phone_Book.Phone_Book-task-build-classes-java.main" target="11" />
+      <module name="Phone_Book.Phone_Book-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Phone_Book.Phone_Book-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Phone_Book.Phone_Book-task-build-reports-tests.main" target="11" />
+      <module name="Phone_Book.Phone_Book-task-build-test-results.main" target="11" />
+      <module name="Phone_Book.Phone_Book-task-build-tmp.main" target="11" />
+      <module name="Phone_Book.Phone_Book-task.main" target="11" />
+      <module name="Phone_Book.Topics-Floating-point_types-Difference_between_two_doubles.main" target="11" />
+      <module name="Phone_Book.Topics-Floating-point_types-Distance.main" target="11" />
+      <module name="Phone_Book.Topics-Floating-point_types-Evaluate_an_expression.main" target="11" />
+      <module name="Phone_Book.Topics-Floating-point_types-Find_X.main" target="11" />
+      <module name="Phone_Book.Topics-Floating-point_types-Theory.main" target="11" />
+      <module name="Phone_Book.Topics-Integer_types_and_operations-Difference_of_times.main" target="11" />
+      <module name="Phone_Book.Topics-Integer_types_and_operations-How_many_nuts_each_squirrel_will_get.main" target="11" />
+      <module name="Phone_Book.Topics-Integer_types_and_operations-Next_even_number.main" target="11" />
+      <module name="Phone_Book.Topics-Integer_types_and_operations-Reading_integer_numbers.main" target="11" />
+      <module name="Phone_Book.Topics-Integer_types_and_operations-Reversing.main" target="11" />
+      <module name="Phone_Book.Topics-Integer_types_and_operations-Snail.main" target="11" />
+      <module name="Phone_Book.Topics-Integer_types_and_operations-Squirrels_and_nuts.main" target="11" />
+      <module name="Phone_Book.Topics-Integer_types_and_operations-The_sum_of_digits.main" target="11" />
+      <module name="Phone_Book.Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="Phone_Book.Topics-Iterating_over_arrays-Alphabetical_order.main" target="11" />
+      <module name="Phone_Book.Topics-Iterating_over_arrays-Check_if_an_array_is_sorted_ascending.main" target="11" />
+      <module name="Phone_Book.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" target="11" />
+      <module name="Phone_Book.Topics-Iterating_over_arrays-Does_an_array_contain_N.main" target="11" />
+      <module name="Phone_Book.Topics-Iterating_over_arrays-Right_Rotation.main" target="11" />
+      <module name="Phone_Book.Topics-Iterating_over_arrays-The_longest_ascending_sequence.main" target="11" />
+      <module name="Phone_Book.Topics-Iterating_over_arrays-The_maximum_product_of_adjacent_elements.main" target="11" />
+      <module name="Phone_Book.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="11" />
+      <module name="Phone_Book.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Phone_Book.Topics-Iterating_over_arrays-Triples.main" target="11" />
+      <module name="Phone_Book.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
