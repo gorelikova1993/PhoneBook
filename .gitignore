@@ -1,0 +1,18 @@
+        .gradle/
+        .idea/
+        /Phone Book/A needle in the hay/
+        /Phone Book/Instant search/
+        /Phone Book/Jumping bubbles/
+        /Phone Book/Need for speed/
+        /Phone Book/lesson-info.yaml
+        /Phone Book/task/build/
+        /Phone Book/task/out/
+        /Phone Book/task/test/
+        /Topics/
+        build.gradle
+        course-info.yaml
+        course-remote-info.yaml
+        gradle/
+        /gradlew
+        gradlew.bat
+        settings.gradle
